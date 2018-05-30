@@ -1,2 +1,6 @@
 # hello-world
-Just another repository...
+```python
+print("Hi!")
+```
+This is just a place to save some ideas, and projects of mine.
+
